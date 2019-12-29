@@ -11,3 +11,5 @@ Some next steps I would like to work on:
 * Generate better features with some of the discarded columns(such as maybe emp_title)
 * use some ensembling techniques for multiple models to potentially increase our accuracy on predictions
 * apply some hyperparameter tuning for more performance
+
+## Based on the model in its current state we should not invest with lending club because our predictive model is showing a potential loss and we don't want that...
