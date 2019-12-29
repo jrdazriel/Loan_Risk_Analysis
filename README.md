@@ -3,7 +3,7 @@ Loan risk analysis of a dataset containing about 2.2m rows and 145 features on l
 
 In the DataCleaning.ipynb file we work our way into a reasonably smaller dataset that we can use to make our predictions
 
-In Model_and_results.ipynb we try about 5 different models and we gain some valuable insights from these on what our data is doing for us.
+In Model_and_results.ipynb we try about 5 different models and we gain some valuable insights from these on what our data is doing for us, however, it looks as though our data needs some more manipulation and feature engineering...
 
 Some next steps I would like to work on:
 * We can tweak penalties further and try to implement a gridsearch optimization to find the best penalties
