@@ -5,6 +5,8 @@ In the DataCleaning.ipynb file we work our way into a reasonably smaller dataset
 
 In Model_and_results.ipynb we try about 5 different models and we gain some valuable insights from these on what our data is doing for us, however, it looks as though our data needs some more manipulation and feature engineering...
 
+### Based on the model in its current state we should not invest with lending club because our predictive model is showing a potential loss and we don't want that...
+
 Some next steps I would like to work on:
 * We can tweak penalties further and try to implement a gridsearch optimization to find the best penalties
 * potentially try some additional models and maybe even something custom or more advanced
@@ -12,4 +14,4 @@ Some next steps I would like to work on:
 * use some ensembling techniques for multiple models to potentially increase our accuracy on predictions
 * apply some hyperparameter tuning for more performance
 
-## Based on the model in its current state we should not invest with lending club because our predictive model is showing a potential loss and we don't want that...
+
